@@ -1,0 +1,9 @@
+// To do --->
+
+look into javascript Chrome Api references
+
+Chromes Alarm api
+
+tts - text-to-speech Api
+
+webRequest Api
